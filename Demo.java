@@ -1,11 +1,7 @@
-class Demo {
-
+public class Demo {
     public void calculate(int a, int b) {
         int d = a / b;
         int c = a * b;
-        // ahdhhadwbdawdbuhducjbaydiuhdbhjguojdknwi
-        // dhjqgdhqfnkjbqhwkdmqklwd
-        // qwdhjknkjqwiudhilk
         System.out.println(c + d);
     }
 
@@ -14,5 +10,4 @@ class Demo {
         c.calculate(12, 22);
 
     }
-
 }
